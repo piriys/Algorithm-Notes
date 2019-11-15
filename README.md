@@ -1,6 +1,8 @@
+My learning progress/What I am currently working on:
+
 # Learn
 - Docker
-- Salesforce
+- [Lightning Design System](https://www.lightningdesignsystem.com)
 - Vue.js/React.js
 
 # Read
