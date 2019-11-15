@@ -1,5 +1,3 @@
-My learning progress/What I am currently working on:
-
 # Learn
 - Docker
 - [Lightning Design System](https://www.lightningdesignsystem.com)
