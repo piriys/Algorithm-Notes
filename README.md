@@ -1,6 +1,5 @@
 # Learn
 - Docker
-- [Lightning Design System](https://www.lightningdesignsystem.com)
 - Vue.js/React.js
 
 # Read
@@ -12,7 +11,8 @@
 - [Web Component](https://www.webcomponents.org/introduction)
 - [Json Web Tokens](https://jwt.io/)
 
-## Documentation/Style Guides
+## Documentation/Style Guides/References
 - [Google Javascript Style Guide](https://google.github.io/styleguide/jsguide.html)
 - [A Beginner's Guide to Writing Documentation](https://www.writethedocs.org/guide/writing/beginners-guide-to-docs/)
 - [BEM(Block Element Modifier)](http://getbem.com/introduction/)
+- [Lightning Aura Components](https://developer.salesforce.com/docs/atlas.en-us.lightning.meta/lightning/intro_framework.htm)
