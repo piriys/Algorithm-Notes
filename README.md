@@ -10,7 +10,7 @@
 ## CSS/HTML/Javascript
 - [Web Component](https://www.webcomponents.org/introduction)
 - [Json Web Tokens](https://jwt.io/)
-
+- [Javascript Proxy](https://codeburst.io/understanding-javascript-proxies-by-examining-on-change-library-f252eddf76c2)
 ## Documentation/Style Guides/References
 - [Google Javascript Style Guide](https://google.github.io/styleguide/jsguide.html)
 - [A Beginner's Guide to Writing Documentation](https://www.writethedocs.org/guide/writing/beginners-guide-to-docs/)
