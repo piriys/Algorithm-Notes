@@ -16,3 +16,4 @@
 - [A Beginner's Guide to Writing Documentation](https://www.writethedocs.org/guide/writing/beginners-guide-to-docs/)
 - [BEM(Block Element Modifier)](http://getbem.com/introduction/)
 - [Lightning Aura Components](https://developer.salesforce.com/docs/atlas.en-us.lightning.meta/lightning/intro_framework.htm)
+- [React Patterns](https://reactpatterns.com/)
